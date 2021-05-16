@@ -1,0 +1,4 @@
+food_data/
+wine_data/
+wine_trigrams.pkl
+food_trigrams.pkl

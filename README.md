@@ -7,7 +7,7 @@ In this repository, we build an NLP-based method for pairing food with wine. Thi
 - Wine Food Pairing Data Prep.ipynb: this is the notebook file in which we create wine and food embeddings and prepare all the components we need to produce wine suggestions.
 - Wine Food Pairings.ipynb: this is the notebook file in which we lay out the rules for pairing wine with food, and visualize the results.
 
-The raw data for these notebooks comes from two different sources. The corpus of wine reviews was too large to be added to this repository. However, the scraper used to mine the data from www.winemag.com is available in this GitHub respository: https://github.com/RoaldSchuring/studying_grape_styles. The corpus of food reviews can be downloaded at https://www.kaggle.com/snap/amazon-fine-food-reviews.
+The raw data for these notebooks comes from two different sources. The corpus of wine reviews was too large to be added to this repository. You can find it at https://www.kaggle.com/roaldschuring/wine-reviews. If you are interested in scraping more wine reviews, please see the scraper used to mine the data from www.winemag.com in this GitHub respository: https://github.com/RoaldSchuring/studying_grape_styles. The corpus of food reviews can be downloaded at https://www.kaggle.com/snap/amazon-fine-food-reviews.
 
 Other files in this repository include:
 
